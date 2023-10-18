@@ -1,7 +1,7 @@
 # biblioteca-game
 El proyecto tiene el propósito de demostrar el uso de las APIs de tipo REST
 
-#¿Qué es una API? según AWS
+# ¿Qué es una API? según AWS
 Las API son mecanismos que permiten a dos componentes de software comunicarse entre sí mediante un conjunto de definiciones y protocolos. Por ejemplo, el sistema de software del instituto de meteorología contiene datos meteorológicos diarios.
 La aplicación meteorológica de su teléfono “habla” con este sistema a través de las API y le muestra las actualizaciones meteorológicas diarias en su teléfono.
 
